@@ -1,5 +1,7 @@
 # Hola mundo con HTML, CSS y JavaScript
 
+[![K-051.jpg](https://i.postimg.cc/G2gWZ6jz/K-051.jpg)](https://postimg.cc/FdcCSW8J)
+
 Uso de HTML, CSS y JavaScript para crear una página web. Proyecto que muestra un texto en una página web simulando ser escrito por un usuario.
 
 ### HTML
